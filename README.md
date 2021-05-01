@@ -1,8 +1,8 @@
-# Proyecto - Diseño de lenguajes de programación
+# Proyecto 2 - Diseño de lenguajes de programación
 ### Christopher Sandoval 13660
 
 ## Link a video
-
+https://youtu.be/5BTQT1wkf7c
 
 ## Requerimientos
 ### Graphviz
