@@ -1,0 +1,5 @@
+while do if switch
+variable1 = 12
+variable2 = 156135
+variable3 = 0351651
+variable4 = 81651

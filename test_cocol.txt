@@ -1,0 +1,6 @@
+variable123 = CHR(12)
+CHR(12)..CHR(15)
+"palabra"
+(. hola .)
+ident = letter{letter|digit}
+
