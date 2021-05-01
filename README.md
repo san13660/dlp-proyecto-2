@@ -12,6 +12,7 @@ https://youtu.be/5BTQT1wkf7c
 
 ## Ejecución
 python main.py <archivo.ATG>
+
 python scanner.py <entrada.txt>
 
 ## Funcionamiento del programa
